@@ -5,7 +5,7 @@
 
 - [X] HELLO WORLD
 - [X] BABY STEPS
-- [ ] MY FIRST I/O!
+- [X] MY FIRST I/O!
 - [ ] MY FIRST ASYNC I/O!
 - [ ] FILTERED LS
 - [ ] MAKE IT MODULAR
