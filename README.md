@@ -22,7 +22,7 @@
 - [X] TIME SERVER
 - [X] HTTP FILE SERVER
 - [X] HTTP UPPERCASERER
-- [ ] HTTP JSON API SERVER
+- [X] HTTP JSON API SERVER
 
 **[NodeSchool](https://nodeschool.io/)** |
 **[learnyounode](https://github.com/workshopper/learnyounode)**
