@@ -10,19 +10,19 @@
 
 ## :computer: Exercicios do workshop
 
-- [X] HELLO WORLD
-- [X] BABY STEPS
-- [X] MY FIRST I/O!
-- [X] MY FIRST ASYNC I/O!
-- [X] FILTERED LS
-- [X] MAKE IT MODULAR
-- [X] HTTP CLIENT
-- [X] HTTP COLLECT
-- [X] JUGGLING ASYNC 
-- [X] TIME SERVER
-- [X] HTTP FILE SERVER
-- [X] HTTP UPPERCASERER
-- [X] HTTP JSON API SERVER
+- [X] (HELLO WORLD)[https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/hello-world/program.js]
+- [X] (BABY STEPS)[https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/baby-steps/program.js]
+- [X] (MY FIRST I/O!)[https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/my-first-io/program.js]
+- [X] (MY FIRST ASYNC I/O!)[https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/my-first-async-io/program.js]
+- [X] (FILTERED LS)[https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/filtered-ls/program.js]
+- [X] (MAKE IT MODULAR)[https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/make-it-modular/program.js]
+- [X] (HTTP CLIENT)[https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/http-client/program.js]
+- [X] (HTTP COLLECT)[https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/http-collect/program.js]
+- [X] (JUGGLING ASYNC )[https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/juggling-async/program.js]
+- [X] (TIME SERVER)[https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/time-server/program.js]
+- [X] (HTTP FILE SERVER)[https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/http-file-server/program.js]
+- [X] (HTTP UPPERCASERER)[https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/http-uppercaserer/program.js]
+- [X] (HTTP JSON API SERVER)[https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/http-api-json-server/program.js]
 
 **[NodeSchool](https://nodeschool.io/)** |
 **[learnyounode](https://github.com/workshopper/learnyounode)**
