@@ -1,4 +1,9 @@
-# NodeSchool - learnyounode
+<p align="center">
+  <img src="./.github/schoolhouse.png">
+  <h1>NODESCHOOL</h1>
+</p>
+
+## learnyounode
 **NodeJS básico: I/O assíncrono, HTTP**
 
 ## Exercicios do workshop
@@ -12,8 +17,8 @@
 - [X] HTTP CLIENT
 - [X] HTTP COLLECT
 - [X] JUGGLING ASYNC 
-- [ ] TIME SERVER
-- [ ] HTTP FILE SERVER
+- [X] TIME SERVER
+- [X] HTTP FILE SERVER
 - [ ] HTTP UPPERCASERER
 - [ ] HTTP JSON API SERVER
 
