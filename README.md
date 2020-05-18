@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="./.github/schoolhouse.png">
-  <h1>NODESCHOOL</h1>
+  <img src="./.github/schoolhouse.png" width="200">
 </p>
+
+<h1 align="center">NODESCHOOL</h1>
 
 ## learnyounode
 **NodeJS básico: I/O assíncrono, HTTP**
