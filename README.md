@@ -21,7 +21,7 @@
 - [X] JUGGLING ASYNC 
 - [X] TIME SERVER
 - [X] HTTP FILE SERVER
-- [ ] HTTP UPPERCASERER
+- [X] HTTP UPPERCASERER
 - [ ] HTTP JSON API SERVER
 
 **[NodeSchool](https://nodeschool.io/)** |
