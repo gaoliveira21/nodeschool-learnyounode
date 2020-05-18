@@ -3,11 +3,12 @@
 </p>
 
 <h1 align="center">NODESCHOOL</h1>
+<p align="center">Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.</p>
 
 ## learnyounode
 **NodeJS básico: I/O assíncrono, HTTP**
 
-## Exercicios do workshop
+## :computer: Exercicios do workshop
 
 - [X] HELLO WORLD
 - [X] BABY STEPS
@@ -25,3 +26,5 @@
 
 **[NodeSchool](https://nodeschool.io/)** |
 **[learnyounode](https://github.com/workshopper/learnyounode)**
+
+Feito por **Gabriel Oliveira** :smiley: - **Contato:** <a href="https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-633962197/">https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-633962197/</a>
