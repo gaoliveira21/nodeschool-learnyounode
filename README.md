@@ -6,9 +6,9 @@
 <p align="center">Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.</p>
 
 ## learnyounode
-**NodeJS básico: I/O assíncrono, HTTP**
+**NodeJS: asynchronous I/O, HTTP**
 
-## :computer: Exercicios do workshop
+## :computer: Workshop's exercises
 
 - [X] [HELLO WORLD](https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/hello-world/program.js)
 - [X] [BABY STEPS](https://github.com/gaoliveira21/nodeschool-learnyounode/blob/master/baby-steps/program.js)
@@ -27,4 +27,4 @@
 **[NodeSchool](https://nodeschool.io/)** |
 **[learnyounode](https://github.com/workshopper/learnyounode)**
 
-Feito por **Gabriel Oliveira** :smiley: - **Contato:** <a href="https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-633962197/">https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-633962197/</a>
+Made by **Gabriel Oliveira** :smiley: - **Contato:** <a href="https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-633962197/">https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-633962197/</a>
